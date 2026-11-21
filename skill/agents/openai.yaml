@@ -1,0 +1,4 @@
+interface:
+  display_name: "Antigravity Project Porter"
+  short_description: "Prepare a portable agentic-IDE project packet with context boundaries, commands, environment ch"
+  default_prompt: "Use @antigravity-project-porter on my authorized input and return a validated result."
